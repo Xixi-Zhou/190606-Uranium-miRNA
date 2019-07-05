@@ -1,4 +1,4 @@
-"mRNA"	"source_1"	"source_2"	"source_3"	"source_4"	"source_5"	"rank_product"	"rank_final"	"miRNA"	"Regulation"
+"mRNA"	"source_1"	"source_2"	"source_3"	"source_4"	"source_5"	"rank_product"	"rank_final"	"miRNA"	"regulation"
 "263876"	2	1	NA	181	4	1.54216964008667	1	"miR-7a"	"Up"
 "57319"	NA	NA	11	2	NA	2.34520787991171	2	"miR-7a"	"Up"
 "76156"	NA	12	NA	NA	2	2.44948974278318	3	"miR-7a"	"Up"
