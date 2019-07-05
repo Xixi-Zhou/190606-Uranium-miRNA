@@ -1,7 +1,0 @@
-Down_regulated
-mmu-miR-378c
-mmu-miR-28a
-mmu-miR-143
-mmu-miR-151
-mmu-miR-322
-mmu-miR-874
